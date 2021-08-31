@@ -50,7 +50,7 @@ isNumberSequence = numberSequenceCheck(sortedList);
 console.log(isNumberSequence);
 
 
-//Problem 4 /////
+//Problem 4 Positive Number Count + Negative Number Sum/////
 
 
 function positiveNumberCounter(numberList){
